@@ -35,7 +35,7 @@ If you encounter a bug or issue with the bot, please [open an issue](https://git
 
 ### Suggesting Enhancements
 
-Have an idea for an improvement or a new feature? We'd love to hear it! Please [open an issue](https://github.com/your-username/your-discord-bot/issues/new) on our GitHub repository and provide:
+Have an idea for an improvement or a new feature? We'd love to hear it! Please [open an issue](https://github.com/Sh4dowKaix64/ProjectSnako/issues/new) on our GitHub repository and provide:
 
 - A concise and clear description of your idea or enhancement request.
 - Any relevant context or use cases.
@@ -60,7 +60,7 @@ Before you begin, make sure you have the following installed:
 
 2. Clone your forked repository to your local machine:
     ```shell
-    git clone https://github.com/sh4dowkaix64/projectsnako.git
+    git clone https://github.com/Sh4dowKaix64/ProjectSnako.git
     ```
 3. Create a virtual environment and install the project dependencies:
 
