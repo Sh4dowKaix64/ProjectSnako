@@ -46,7 +46,7 @@ If you encounter any issues or have questions about Snako, feel free to join our
 
 ## License
 
-Snako is licensed under the [MIT License](LICENSE.md).
+Snako is licensed under the [MIT License](LICENSE).
 
 ---
 
