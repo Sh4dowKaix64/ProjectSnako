@@ -1,6 +1,6 @@
-# 🐍 Snako
+![Snako Logo](https://assets-global.website-files.com/6257adef93867e50d84d30e2/625eb604bb8605784489d361_Discord-Logo%2BWordmark-Color%20(1).png)
 
-![Snako Logo](snako_logo.png)
+# 🐍 Snako
 
 Snako is an open-source Discord bot designed to bring the joy of gaming and an interactive economy system to your Discord server. With Snako, you can engage your community with fun games and immerse them in a virtual economy. Whether you want to play games, manage your server's economy, or customize your bot's behavior, Snako has got you covered.
 
@@ -9,7 +9,7 @@ Snako is an open-source Discord bot designed to bring the joy of gaming and an i
 Snako offers a range of exciting features, including:
 
 - **Fun Games**
-  - Play games like trivia, 8-ball, and more with your server members.
+  - Play games like tic tac toe, and more with your server members.
   - Compete for high scores and bragging rights.
   
 - **Economy System**
@@ -30,7 +30,7 @@ Snako offers a range of exciting features, including:
 ## Getting Started
 
 To add Snako to your Discord server, simply click the following link:
-[Add Snako to Your Server](https://discord.com/oauth2/authorize?client_id=YOUR_BOT_CLIENT_ID&scope=bot&permissions=YOUR_BOT_PERMISSIONS)
+[Add Snako to Your Server](https://discord.com/api/oauth2/authorize?client_id=1147909159849820230&permissions=1084748065856&scope=bot)
 
 ## Usage
 
