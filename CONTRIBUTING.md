@@ -27,7 +27,7 @@ Please review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). We expect
 
 ### Reporting Bugs
 
-If you encounter a bug or issue with the bot, please [open an issue](https://github.com/your-username/your-discord-bot/issues/new) on our GitHub repository. Be sure to include:
+If you encounter a bug or issue with the bot, please [open an issue](https://github.com/Sh4dowKaix64/ProjectSnako/issues/new) on our GitHub repository. Be sure to include:
 
 - A clear and descriptive title.
 - A detailed description of the issue, including steps to reproduce.
